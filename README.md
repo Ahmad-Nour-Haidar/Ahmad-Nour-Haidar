@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmad Nour Haidar</h1>
-<!-- <h3 align="center">Flutter Developer</h3> -->
+<h3 align="center">Flutter Developer</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ahmad-nour-haidar&label=Profile%20views&color=0e75b6&style=flat" alt="ahmad-nour-haidar" /> </p>
 
@@ -16,9 +16,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ahmad-nour-haidar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmad-nour-haidar" height="30" width="40" /></a>
-<a href="https://fb.com/ahmad nour haidar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ahmad nour haidar" height="30" width="40" /></a>
+<a href="https://fb.com/ahmadnourhaidar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ahmadnourhaidar" height="30" width="40" /></a>
+<a href="https://instagram.com/ahmad_nour_haidar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ahmad_nour_haidar" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/ahmad_nour_haidar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="ahmad_nour_haidar" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/Ahmad_Nour_Haidar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ahmad nour haidar" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/ahmad nour haidar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ahmad nour haidar" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
