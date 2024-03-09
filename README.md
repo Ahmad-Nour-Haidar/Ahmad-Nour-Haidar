@@ -1,15 +1,18 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Ahmad-Nour-Haidar.Ahmad-Nour-Haidar" />
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ahmad+Nour+Haidar;" />
-</h1>
+<h3 align="center">
+  Hi, I'm Ahmad Nour Haidar
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
 
-<h3 align="center">A passionate software developer</h3>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=A%20passionate%20Software%20Developer;Always%20learning%20new%20Technology;Reach%20out%20if%20you%20need%20help!%20%F0%9F%92%AC&;ACfont=Fira%20Code&center=true&width=440&height=45"></a>
+</p>
 
+<h3 align="center"></h3>
 <br/>
-
 <div align="left">
-  
+    
 🌱 I’m currently learning **Flutter, Node.js**
   
 💬 Ask me about **Flutter**
