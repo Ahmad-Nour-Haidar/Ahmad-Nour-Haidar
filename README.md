@@ -13,21 +13,9 @@
 - 👨‍💻 As a Software Developer student, I'm constantly learning and exploring new technologies to improve my skills.
 - 💬 Ask me about my experience with **Flutter, C++, Java**.
 - 🌱 I’m currently learning **[Flutter](https://flutter.dev/)** • **[Node.Js](https://nodejs.org/en/learn/getting-started/introduction-to-nodejs)**
- 
-<div align="left"> 
-  <a href="mailto:ahmadnourhaidar@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://linkedin.com/in/ahmad-nour-haidar" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  <a href="https://gitlab.com/ahmad-nour-haidar" target="_blank">
-    <img src="https://img.shields.io/badge/gitlab-e24329?style=for-the-badge&logo=gitlab&logoColor=white" target="_blank" />
-  </a>
-</div>
 
+<div align=center>
  <hr/>
- 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
@@ -38,9 +26,54 @@
     <img src="https://skillicons.dev/icons?i=cpp,java,dart,flutter,gradle,firebase,js,nodejs,npm,express,mongodb,mysql" />
     <br>
 </div>
+<br>
+</div>
 
-<br/>
-<hr/>
+## My Profile Statistics
+<div align=center>
+
+![](https://github-readme-stats.vercel.app/api?username=Ahmad-Nour-Haidar&theme=algolia&show_icons=true&count_private=true&bg_color=1e2b3c&border_color=B2E0FF&icon_color=95ccff&border_radius=20&include_all_commits=true&rank_icon=percentile)
+</div>
+
+### 💳 Github Profile Summary Card
+ 
+ <div align=center>
+  
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ahmad-Nour-Haidar&theme=github_dark)
+  
+ </div>
+ 
+ ### ⏱ Streak Stats
+ 
+ <div align=center>
+  
+ [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Ahmad-Nour-Haidar&theme=dracula&background=1E2B3C&border=B2E0FF&stroke=000439&ring=95CCFF&fire=95CCFF&currStreakNum=95CCFF&sideNums=95CCFF&currStreakLabel=95CCFF&sideLabels=95CCFF&dates=FFFFFF)](https://git.io/streak-stats)
+
+ </div>
+ 
+ ### 📈 Activity Graph
+ 
+ [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ahmad-Nour-Haidar&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+ ### 📊 Most Used Language
+ 
+ <div align=center>
+  
+[![](https://github-readme-stats.vercel.app/api/top-langs?username=Ahmad-Nour-Haidar&show_icons=true&locale=en&layout=compact&theme=radical)]()  
+  
+ </div>
+ 
+ ### 🏆 Profile Trophies 
+
+<div align=center>
+ 
+[![trophy](https://github-profile-trophy.vercel.app/?username=Ahmad-Nour-Haidar&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+  
+</div>
+
+<br> 
+
+
 
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
@@ -76,3 +109,15 @@
 </div>
 
 <br/>
+
+<div align="left"> 
+  <a href="mailto:ahmadnourhaidar@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://linkedin.com/in/ahmad-nour-haidar" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://gitlab.com/ahmad-nour-haidar" target="_blank">
+    <img src="https://img.shields.io/badge/gitlab-e24329?style=for-the-badge&logo=gitlab&logoColor=white" target="_blank" />
+  </a>
+</div>
