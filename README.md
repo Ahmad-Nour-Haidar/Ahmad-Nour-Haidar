@@ -5,14 +5,12 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=A%20passionate%20Software%20Developer;Always%20learning%20new%20Technology;Reach%20out%20if%20you%20need%20help!%20%F0%9F%92%AC&;ACfont=Fira%20Code&center=true&width=440&height=45"></a>
-</p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=72FFFF&size=25&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub+profile!;I'm+Software+Engineering+Student.;A+passionate+Software+Developer.;Always+learning+new+Technology.;Reach+out+if+you+need+help!+%F0%9F%92%AC)](https://git.io/typing-svg)
 
----
+___
 - 👨‍💻 As a Software Developer student, I'm constantly learning and exploring new technologies to improve my skills.
 - 💬 Ask me about my experience with **Flutter, C++, Java**.
-- 🌱 I’m currently learning **[Flutter](https://flutter.dev/)** • **[Node.Js](https://nodejs.org/en/learn/getting-started/introduction-to-nodejs)**
+- 🌱 I’m currently learning ***[Flutter](https://flutter.dev/)*** • ***[Node.Js](https://nodejs.org/en/learn/getting-started/introduction-to-nodejs)***
 
 <div align=center>
  <hr/>
@@ -29,9 +27,10 @@
 <br>
 </div>
 
+---
 ## My Profile Statistics
 <div align=center>
-
+  
 ![](https://github-readme-stats.vercel.app/api?username=Ahmad-Nour-Haidar&theme=algolia&show_icons=true&count_private=true&bg_color=1e2b3c&border_color=B2E0FF&icon_color=95ccff&border_radius=20&include_all_commits=true&rank_icon=percentile)
 </div>
 
@@ -73,7 +72,13 @@
 
 <br> 
 
-
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
 
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
