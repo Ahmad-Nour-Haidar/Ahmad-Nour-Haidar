@@ -67,62 +67,19 @@ ___
 <div align=center>
  
 [![trophy](https://github-profile-trophy.vercel.app/?username=Ahmad-Nour-Haidar&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-  
-</div>
 
+</div>
 <br> 
 
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div>
+---
+
+### 🔗 &nbsp;Contact Me
 
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Ahmad-Nour-Haidar/Ahmad-Nour-Haidar/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div>
-
-<hr/>
-
-<h2 align="center">
-    <img width="16" height="16" src="https://github.com/Ahmad-Nour-Haidar/Ahmad-Nour-Haidar/blob/main/bar.png" />
-      Stats  
-    <img width="20" height="20" src="https://github.com/Ahmad-Nour-Haidar/Ahmad-Nour-Haidar/blob/main/bar.png" />
-</h2>
-<br>
-<div align=center>
-  <img width=390 src="https://github-readme-streak-stats-Ahmad-Nour-Haidar.vercel.app/?user=Ahmad-Nour-Haidar&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-Ahmad-Nour-Haidar.vercel.app/api?username=Ahmad-Nour-Haidar&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats-Ahmad-Nour-Haidar.vercel.app/api/top-langs/?username=Ahmad-Nour-Haidar&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-</div>
-
-<br/><br/>
-
-<hr/>
-
-<br/>
-
-<div align="center">
-<a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
-</div>
-
-<br/>
-
-<div align="left"> 
-  <a href="mailto:ahmadnourhaidar@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://linkedin.com/in/ahmad-nour-haidar" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-  <a href="https://gitlab.com/ahmad-nour-haidar" target="_blank">
-    <img src="https://img.shields.io/badge/gitlab-e24329?style=for-the-badge&logo=gitlab&logoColor=white" target="_blank" />
-  </a>
+<a href="mailto: ahmadnourhaidar@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-BB001B?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/ahmad-nour-haidar/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-0a66c2.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.facebook.com/ahmadnourhaidar"><img alt="facebook" src="https://img.shields.io/badge/facebook-0165e1.svg?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+<a href="https://www.instagram.com/ahmad_nour_haidar/"><img alt="instagram" src="https://img.shields.io/badge/instagram-C13584.svg?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://t.me/Ahmad_Nour_Haidar"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-27a7e7?style=for-the-badge&logo=telegram&logoColor=white" />
+</a>
 </div>
