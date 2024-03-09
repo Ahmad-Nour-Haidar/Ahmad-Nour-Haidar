@@ -54,7 +54,11 @@
 
 <hr/>
 
-<h2 align="center">⚡ Stats ⚡</h2>
+<h2 align="center">
+    <img width="16" height="16" src="https://github.com/Ahmad-Nour-Haidar/Ahmad-Nour-Haidar/blob/main/bar.png" />
+      Stats  
+    <img width="20" height="20" src="https://github.com/Ahmad-Nour-Haidar/Ahmad-Nour-Haidar/blob/main/bar.png" />
+</h2>
 <br>
 <div align=center>
   <img width=390 src="https://github-readme-streak-stats-Ahmad-Nour-Haidar.vercel.app/?user=Ahmad-Nour-Haidar&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
