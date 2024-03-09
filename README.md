@@ -9,8 +9,9 @@
 
 ___
 - 👨‍💻 As a Software Developer student, I'm constantly learning and exploring new technologies to improve my skills.
-- 💬 Ask me about my experience with **Flutter, C++, Java**.
-- 🌱 I’m currently learning ***[Flutter](https://flutter.dev/)*** • ***[Node.Js](https://nodejs.org/en/learn/getting-started/introduction-to-nodejs)***
+- 💬 Ask me about my experience with ***Flutter, C++, Java***.
+- 🌱 I’m currently learning ***[Flutter](https://flutter.dev/)*** • ***[Node.Js](https://nodejs.org/en/learn/getting-started/introduction-to-nodejs).***
+- 😎 I'm a ***LeetCoder & CodeForces Coder***.
 
 <div align=center>
  <hr/>
@@ -85,4 +86,13 @@ ___
 <a href="https://t.me/Ahmad_Nour_Haidar"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-27a7e7?style=for-the-badge&logo=telegram&logoColor=white" />
 
 </a>
+</div>
+
+<h5 align="center">سبحان الله و بحمده - سبحان الله العظيم</h5>
+
+---
+<div align=center>
+  
+##### Navigate to ***Repositories Tap 🔥*** to see all ***My Projects***, and Your Are Welcome ❤
+##### 👇🏻 Here is a list of the Open Source projects: 👇🏻
 </div>
