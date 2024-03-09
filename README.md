@@ -93,6 +93,6 @@ ___
 ---
 <div align=center>
   
-##### Navigate to ***Repositories Tap 🔥*** to see all ***My Projects***, and Your Are Welcome ❤
-##### 👇🏻 Here is a list of the Open Source projects: 👇🏻
+#### Navigate to ***Repositories Tap 🔥*** to see all ***My Projects***, and Your Are Welcome ❤
+#### 👇🏻 Here is a list of the Open Source projects: 👇🏻
 </div>
