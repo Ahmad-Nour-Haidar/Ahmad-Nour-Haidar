@@ -88,8 +88,6 @@ ___
 </a>
 </div>
 
-<h4 align="center">سبحان الله و بحمده - سبحان الله العظيم</h4>
-
 ---
 
 ## Top Respositorys
@@ -103,6 +101,7 @@ ___
 
 <div align=center>
   
+#### سبحان الله و بحمده - سبحان الله العظيم
 #### Navigate to ***Repositories Tap 🔥*** to see all ***My Projects***, and Your Are Welcome ❤
 #### 👇🏻 Here is a list of the Open Source projects: 👇🏻
 </div>
