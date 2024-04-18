@@ -1,3 +1,7 @@
+<div align="center">
+   <img width=100% src=https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true />
+</div>
+
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Ahmad-Nour-Haidar.Ahmad-Nour-Haidar" />
 
 <h3 align="center">
