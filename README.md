@@ -12,7 +12,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=72FFFF&size=25&center=true&vCenter=true&width=1000&lines=Welcome+to+my+GitHub+profile!;I'm+Software+Engineering+Student.;A+passionate+Software+Developer.;Always+learning+new+Technology.;Reach+out+if+you+need+help!+%F0%9F%92%AC)](https://git.io/typing-svg)
 
 ___
-- 👨‍💻 As a Software Developer student, I'm constantly learning and exploring new technologies to improve my skills.
+- 👨‍💻 As a Software Engineering student, I'm constantly learning and exploring new technologies to improve my skills.
 - 💬 Ask me about my experience with ***Flutter, C++, Java***.
 - 🌱 I’m currently learning ***[Flutter](https://flutter.dev/)*** • ***[Node.Js](https://nodejs.org/en/learn/getting-started/introduction-to-nodejs).***
 - 😎 I'm a ***LeetCoder & CodeForces Coder***.
