@@ -20,6 +20,8 @@ ___
   ***[Node.Js](https://nodejs.org/en/learn/getting-started/introduction-to-nodejs).***
 - 😎 I'm a ***LeetCoder & CodeForces Coder***.
 
+---
+
 ### 🔗 &nbsp;Contact Me
 
 <div align="center">
@@ -29,12 +31,8 @@ ___
 <a href="https://www.facebook.com/ahmadnourhaidar"><img alt="facebook" src="https://img.shields.io/badge/facebook-0165e1.svg?style=for-the-badge&logo=facebook&logoColor=white"/></a>
   <a href="https://leetcode.com/Ahmad_Nour_Haidar/"><img alt="leetcode" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06"/></a>
   <a href="https://codeforces.com/profile/Ahmad_Nour_Haidar"><img alt="Codeforces" src="https://img.shields.io/badge/Codeforces-FF0000?style=for-the-badge&logo=Codeforces&logoColor=FFffff"/></a>
-<a href="https://t.me/Ahmad_Nour_Haidar"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-27a7e7?style=for-the-badge&logo=telegram&logoColor=white" />
-
-</a>
+<a href="https://t.me/Ahmad_Nour_Haidar"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-27a7e7?style=for-the-badge&logo=telegram&logoColor=white" /></a>
 </div>
-
----
 
 <div align=center>
  <hr/>
