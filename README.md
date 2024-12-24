@@ -16,12 +16,11 @@ ___
 - 👨‍💻 As a Software Engineering student, I'm constantly learning and exploring new technologies to
   improve my skills.
 - 💬 Ask me about my experience with ***Flutter, C++, Java***.
-- 🌱 I’m currently learning ***[Flutter](https://flutter.dev/)*** •
-  ***[Node.Js](https://nodejs.org/en/learn/getting-started/introduction-to-nodejs).***
+- 🌱 I’m currently learning ***[Flutter](https://flutter.dev/) • [Node.Js](https://nodejs.org/en) • [Nest.Js](https://nestjs.com/).***
 - 😎 I'm a ***LeetCoder & CodeForces Coder***.
 
 ---
-
+~~~~
 ### 🔗 &nbsp;Contact Me
 
 <div align="center">
