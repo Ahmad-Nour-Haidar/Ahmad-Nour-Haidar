@@ -20,7 +20,7 @@ ___
 - 😎 I'm a ***LeetCoder & CodeForces Coder***.
 
 ---
-~~~~
+
 ### 🔗 &nbsp;Contact Me
 
 <div align="center">
